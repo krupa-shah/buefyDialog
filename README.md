@@ -1,4 +1,4 @@
-# app1
+# buefyDialog
 
 ## Project setup
 ```
